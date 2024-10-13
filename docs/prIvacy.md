@@ -15,6 +15,7 @@ We automatically collect certain information when you visit, use or navigate the
 ### Information collected through our Apps
 In Short: We may collect information regarding your mobile device, when you use our apps.
 
+
 If you use our Apps, we may also collect the following information:  Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device’s camera, microphone, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.  Mobile Device Data. We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.
 
 ## WHAT INFORMATION WE DO NOT COLLECT?
