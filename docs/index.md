@@ -1,7 +1,10 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
+head:
+  - - meta
+    - name: google-site-verification
+      content: WdZcIFrpcQ6Kg-231I_PZJeYOmAm-YEo_GSSJzFIVX8
 hero:
   name: "温知文档"
   text: ""

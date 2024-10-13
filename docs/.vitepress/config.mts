@@ -4,6 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "温知文档",
   description: "温知文档,温知笔记,欢迎使用温知系列产品！",
+  head:[
+    [
+      'meta',
+      {
+        'name':'google-site-verification',
+        'conent':'WdZcIFrpcQ6Kg-231I_PZJeYOmAm-YEo_GSSJzFIVX8'
+      }
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
