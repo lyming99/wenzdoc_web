@@ -5,6 +5,9 @@ head:
   - - meta
     - name: google-site-verification
       content: WdZcIFrpcQ6Kg-231I_PZJeYOmAm-YEo_GSSJzFIVX8
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-p2J2jhIegl
 hero:
   name: "温知文档"
   text: ""

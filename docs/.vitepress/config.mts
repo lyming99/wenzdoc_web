@@ -11,6 +11,13 @@ export default defineConfig({
         'name':'google-site-verification',
         'conent':'WdZcIFrpcQ6Kg-231I_PZJeYOmAm-YEo_GSSJzFIVX8'
       }
+    ],
+    [
+      'meta',
+      {
+        'name':'baidu-site-verification',
+        'conent':'codeva-p2J2jhIegl'
+      }
     ]
   ],
   themeConfig: {
