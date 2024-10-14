@@ -8,7 +8,7 @@ head:
 hero:
   name: "温知文档"
   text: ""
-  tagline: "欢迎使用温知文档～"
+  tagline: "做项目，就用温知文档～"
   actions:
     - theme: brand
       text: 立即下载
