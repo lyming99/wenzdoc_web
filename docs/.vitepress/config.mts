@@ -18,6 +18,15 @@ export default defineConfig({
         'name':'baidu-site-verification',
         'conent':'codeva-p2J2jhIegl'
       }
+    ],[
+      'script',{},
+      `var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9e2beda54a190b8718409b3053276fc6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();`
     ]
   ],
   themeConfig: {
