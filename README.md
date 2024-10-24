@@ -1,2 +1,2 @@
 # 温知文档官网
-www.wenzdoc.com
+http://www.wenzdoc.com
