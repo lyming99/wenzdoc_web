@@ -45,6 +45,11 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lyming99/wenzdoc_web' }
-    ]
+    ],
+    //页脚
+    footer: {
+      message: '',
+      copyright: 'Copyright ©WenzDoc 2024 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024022623号-3</a>',  
+    },
   }
 })
