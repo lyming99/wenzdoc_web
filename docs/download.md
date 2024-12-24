@@ -1,4 +1,10 @@
 # 下载软件
+## 正式版本v1.0.1
+
+Windows下载地址：https://file.wenzdoc.com/wenzdoc/WenzDoc1.0.1-Windows-x64.zip
+
+MacOS下载地址：https://file.wenzdoc.com/wenzdoc/WenzDoc1.0.1-Installer.dmg
+
 
 ## 内测版本v1.0
 
